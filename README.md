@@ -12,6 +12,7 @@ The team behind this project is composed of:
 - Spencer Myers (CIS major)
 - Justin Nguyen (IT major)
 - Sasha Scott (IT major)
+
 Also, special thanks to Mr. Propaganda (Jacob Moellenbeck) for making the game's music.
 This game was created using Unreal Engine 4.27.2.
 
