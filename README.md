@@ -12,6 +12,7 @@ The team behind this project is composed of:
 - Spencer Myers (CIS major)
 - Justin Nguyen (IT major)
 - Sasha Scott (IT major)
+
 Also, special thanks to Mr. Propaganda (Jacob Moellenbeck) for making the game's music.
 This game was created using Unreal Engine 4.27.2.
 
@@ -79,14 +80,17 @@ from their inventory, the Action Prompt will show the button the player can pres
 | Controls |
 ------------
 **Menu navigation:**
+
 Left-click (Mouse) on the desired buttons that display.
 
 **During gameplay:**
 
 *Player movement*
+
 Left-click (LMB Mouse) on a valid location on the map to move your character to that location.
 
 *Entering the pause menu*
+
 Pres Esc (Escape key) to enter the pause menu.
 
 Other controls are presented via the Action Prompt.
