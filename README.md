@@ -94,3 +94,8 @@ Left-click (LMB Mouse) on a valid location on the map to move your character to 
 Pres Esc (Escape key) to enter the pause menu.
 
 Other controls are presented via the Action Prompt.
+
+---------------------
+| View Source Files |
+---------------------
+To view source code of the project please install Unreal Engine Version 4.27 using the instructions given in Unreal Documentation found [here](https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/)
